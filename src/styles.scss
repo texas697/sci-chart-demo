@@ -1,0 +1,19 @@
+
+body {
+  overflow: hidden;
+  margin: 0;
+  background-color: black;
+}
+
+.ChartWrapper {
+  //display: flex;
+  //align-items: center;
+  //justify-content: center;
+  touch-action: none;
+  height: 100vh;
+  width: 100vw;
+}
+
+.MuiBox-root {
+  padding: 0 !important;
+}
